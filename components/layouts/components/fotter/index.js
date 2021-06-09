@@ -49,7 +49,7 @@ export default function index() {
                 </div>
             </div>
             <div className="footer_copyright text-center">
-                <p>Designed and Developed by <a href="https://uideck.com" rel="nofollo">UIdeck</a></p>
+                <p>Designed and Developed by <a href="https://mbokart-concept.net" rel="nofollo">Mbok'art concept</a></p>
             </div>
         </div>
  <a href="#" class="back-to-top"><i class="lni lni-chevron-up"></i></a>

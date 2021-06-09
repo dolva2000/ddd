@@ -54,9 +54,9 @@ export default function index() {
                     <div className="row">
                         <div className="col-lg-10 col-md-10">
                             <div className="slider_content">
-                                <h2 className="slider_title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">You are using free lite version</h2>
-                                <p className="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s">Please, consider purchasing full version of the template to get all section and features</p>
-                                <a href="https://rebrand.ly/arch-ui" rel="nofollow" className="main-btn wow fadeInLeftBig" data-wow-duration="1.3s" data-wow-delay="0.8s">Purchase Now</a>
+                                <h2 className="slider_title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">Cdi Builds</h2>
+                                <p className="wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s">Les experts en construction et Architecture de CDi builds comprennent des ingénieurs, des comptables et des professionnels de la gestion de la construction qui proposent des solutions aux clients nécessitant une expertise de niche. </p>
+                                <a href="#" rel="nofollow" className="main-btn wow fadeInLeftBig" data-wow-duration="1.3s" data-wow-delay="0.8s">Cdi Build</a>
                             </div> 
                         </div>
                     </div> 
